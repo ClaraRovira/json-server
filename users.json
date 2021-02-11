@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "nom": "Clara",
+            "cognoms": "Rovira",
+            "telefon": 123456789,
+            "email": "clara@upc.edu",
+            "contrasenya": "1234"
+        },
+        {
+            "nom": "Test",
+            "cognoms": "UPC",
+            "telefon": 123456789,
+            "email": "test@upc.edu",
+            "contrasenya": "5678"
+        }
+    ]
+}
